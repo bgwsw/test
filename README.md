@@ -1,10 +1,12 @@
 <p style="text-align:justify;">
-	<a name="top"></a> <a><span style="font-size:10px;line-height:1;">微信打开请点击右上角[···]，然后选择[在浏览器中打开]</span></a> 
+	<a name="undefined"></a> <a><span style="font-size:10px;line-height:1;">微信打开请点击右上角[···]，然后选择[在浏览器中打开]</span></a> <br />
+<span style="font-size:10px;line-height:1;"><a href="http://qr06.cn/C3tw81">2020年4月10日更新丨微信公众号：包哥万事屋丨微信：baoge404</a></span> 
 </p>
 <p style="text-align:justify;">
-	<span style="font-size:10px;line-height:1;"><a href="http://qr06.cn/C3tw81">2020年4月10日更新丨微信公众号：包哥万事屋丨微信：baoge404</a></span> 
+	<br />
 </p>
-<p style="text-align:justify;">
+<hr />
+<p>
 	<br />
 </p>
 <p style="text-align:justify;">
@@ -17,23 +19,18 @@
 	<a href="#manhua"><span style="font-size:16px;line-height:1.5;">漫画资源 &gt;&gt;&gt;</span></a> 
 </p>
 <p style="text-align:justify;">
-	<a href="#xiaoshuo"><span style="font-size:16px;line-height:1.5;">小说资源 &gt;&gt;&gt;</span></a> 
+	<span style="font-size:16px;line-height:1.5;"><a href="#xiaoshuo">小说资源 &gt;&gt;&gt;</a></span> 
 </p>
 <p style="text-align:justify;">
-	<span style="font-size:16px;line-height:1.5;">#下载书签#</span> 
-</p>
-<p style="text-align:justify;">
-	<span style="font-size:16px;line-height:1.5;"><br />
-</span> 
+	<br />
 </p>
 <hr />
-<hr style="page-break-after:always;" class="ke-pagebreak" />
 <p>
 	<strong><span style="color:#009900;font-size:18px;"><br />
 </span></strong> 
 </p>
 <p>
-	<a name="yingshi"></a><strong><span style="color:#009900;font-size:18px;">影视资源区丨</span><span style="font-size:18px;">应付 99%日常看视频所需</span></strong> 
+	<a name="undefined"></a><strong><span style="color:#009900;font-size:18px;">影视资源区丨</span><span style="font-size:18px;">应付 99%日常看视频所需</span></strong> 
 </p>
 <p style="text-align:justify;">
 	<span style="font-size:16px;line-height:1;">主流影视网站-免费看超清#</span><span style="font-size:16px;">爱优腾芒等主流视频解析站#</span> 
@@ -143,7 +140,7 @@
 	<br />
 </p>
 <p style="text-align:justify;">
-	<a name="yinyue"></a><span style="font-size:18px;"><strong><span style="color:#009900;">音乐资源区丨</span>满足你对音乐的所有幻想</strong></span><span style="font-size:18px;font-weight:bold;">&nbsp;</span><a href="#top"><span style="font-weight:bold;background-color:#009900;color:#FFFFFF;font-size:9px;">&nbsp;返回顶部 TOP&nbsp;</span></a><span style="font-size:18px;"><strong><br />
+	<a name="undefined"></a><span style="font-size:18px;"><strong><span style="color:#009900;">音乐资源区丨</span>满足你对音乐的所有幻想</strong></span><span style="font-size:18px;font-weight:bold;">&nbsp;</span><a href="#top"><span style="font-weight:bold;background-color:#009900;color:#FFFFFF;font-size:9px;">&nbsp;返回顶部 TOP&nbsp;</span></a><span style="font-size:18px;"><strong><br />
 </strong></span> 
 </p>
 <h3 style="text-align:justify;">
@@ -177,7 +174,7 @@
 	<br />
 </p>
 <h3 style="text-align:justify;">
-	<a name="manhua"></a><span style="font-size:18px;line-height:1;"><span style="color:#009900;">漫画资源区丨</span>拥抱沉浸式的二次元世界&nbsp;<a href="#top"><span style="background-color:#009900;color:#FFFFFF;font-size:9px;">&nbsp;返回顶部 TOP </span></a></span> 
+	<a name="undefined"></a><span style="font-size:18px;line-height:1;"><span style="color:#009900;">漫画资源区丨</span>拥抱沉浸式的二次元世界&nbsp;<a href="#top"><span style="background-color:#009900;color:#FFFFFF;font-size:9px;">&nbsp;返回顶部 TOP </span></a></span> 
 </h3>
 <p style="text-align:justify;">
 	<span style="font-size:14px;">漫画资源网站</span> 
@@ -218,7 +215,7 @@
 	<br />
 </p>
 <h3 style="text-align:justify;">
-	<a name="xiaoshuo"></a><span style="font-size:18px;line-height:1;"><span style="color:#009900;">小说资源区丨</span>比爽文更爽的是免费看爽文 返回&nbsp;<a href="#top"><span style="background-color:#009900;color:#FFFFFF;font-size:9px;font-weight:normal;">&nbsp;返回顶部 TOP&nbsp;</span><br />
+	<a name="undefined"></a><span style="font-size:18px;line-height:1;"><span style="color:#009900;">小说资源区丨</span>比爽文更爽的是免费看爽文 返回&nbsp;<a href="#top"><span style="background-color:#009900;color:#FFFFFF;font-size:9px;font-weight:normal;">&nbsp;返回顶部 TOP&nbsp;</span><br />
 </a> </span> 
 </h3>
 <p style="text-align:justify;">
