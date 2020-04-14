@@ -32,7 +32,7 @@
 </span></span></span></span></span></span></strong> </b>
 </p>
 <p style="text-align:justify;">
-	<b><strong><span style="font-size:18px;"><span style="color:#009900;"><span><span><span><span><span><span><span><span><span><span>影视资源区丨</span></span></span></span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span>应付99％日常看视频所需</span></span><a name="影视资源区"></a></span></span></span></span></span></span></span></span></span></strong> </b>
+	<b><strong><span style="font-size:18px;"><span style="color:#009900;"><span><span><span><span><span><span><span><span><span><span>影视资源区丨</span></span></span></span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span>应付99％日常看视频所需</span></span><a name="#影视资源区"></a></span></span></span></span></span></span></span></span></span></strong> </b>
 </p>
 <p style="text-align:justify;">
 	<b><span style="font-size:14px;"><span><span><span><span><span><span><span><span><span><span>1.各大影视播放网站-免费看超清</span></span></span></span></span></span></span></span></span></span></span> </b>
