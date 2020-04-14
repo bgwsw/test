@@ -132,26 +132,25 @@
 
 <span style="text-align:justify;">
 	<span style="font-size:16px;line-height:1;">聚合类听歌软件</span> 
-</br>
+<br/>
 	<a href="https://listen1.github.io/listen1/"><span style="font-size:14px;line-height:1;">Listen 1 全平台下载链接</span></a> 
-</p>
 <p style="text-align:justify;">
 	<br />
 </p>
 <span style="text-align:justify;">
 	<span style="font-size:16px;line-height:1;">高音质音频全网下载</span> 
-</br>
+<br/>
 	<a href="https://share.weiyun.com/5Oc2Fcu"><span style="font-size:14px;line-height:1;">安卓- 五音助手v2.2.4</span></a> <span>丨&nbsp;</span><a href="https://share.weiyun.com/5hsqkdz"><span style="font-size:14px;line-height:1;">安卓-五音助手v2.2.4_兼容版</span></a> <span>丨&nbsp;</span><a href="https://share.weiyun.com/5q8qqVR"><span style="font-size:14px;line-height:1;">安卓-无名音乐v2.1#网易云音乐+QQ音乐#</span></a> <span>丨&nbsp;</span><a href="https://share.weiyun.com/5SJNzMj"><span style="font-size:14px;line-height:1;">安卓-魔音1.1</span></a> <span>丨&nbsp;</span><a href="https://share.weiyun.com/5yO5XzG"><span style="font-size:14px;line-height:1;">安卓-轻音乐2.3.2</span></a> <span>丨&nbsp;</span><span style="font-size:14px;line-height:1;"><a href="https://share.weiyun.com/5JSoJGl">安卓-ONE MUSIC v1.8</a>&nbsp;<span>丨&nbsp;</span></span><a href="https://share.weiyun.com/5kFbXmw"><span style="font-size:14px;line-height:1;">安卓-QMD v1.4.9</span></a> <span>丨&nbsp;</span><a href="https://share.weiyun.com/5tMQngx"><span style="font-size:14px;line-height:1;">win桌面-MP3jam</span></a> <span>丨&nbsp;</span><a href="https://share.weiyun.com/5HSUE0I"><span style="font-size:14px;line-height:1;">win桌面-鱼声音乐#可下载网易云音乐#</span></a> <span>丨&nbsp;</span><a href="https://share.weiyun.com/5ZLXOlg"><span style="font-size:14px;line-height:1;">win桌面-音乐迷</span></a> <span>丨&nbsp;</span><a href="https://moresound.tk/music/"><span style="font-size:14px;line-height:1;">摩声</span></a> <span>丨&nbsp;</span><a href="https://www.sq688.com/"><span style="font-size:14px;line-height:1;">SQ688无损音乐交流</span></a> <span>丨&nbsp;</span><a href="http://a1one7.gz01.bdysite.com/music/"><span style="font-size:14px;line-height:1;">ONE MUSIC</span></a> <span>丨&nbsp;</span><a href="https://www.50yin.com/"><span style="font-size:14px;line-height:1;">50YIN-音乐论坛</span></a> <span>丨&nbsp;</span><a href="https://sacdr.net/forum.php"><span style="font-size:14px;line-height:1;">易音音乐论坛</span></a> <span>丨&nbsp;</span><a href="https://www.xlebbs.com/"><span style="font-size:14px;line-height:1;">享乐音乐论坛</span></a> <span>丨&nbsp;</span><a href="http://www.ccsdj.com/forum.php"><span style="font-size:14px;line-height:1;">串串烧音乐论坛</span></a> <span>丨&nbsp;</span><a href="https://www.cdbao.net/"><span style="font-size:14px;line-height:1;">CD包音乐网论坛</span></a> <span>丨&nbsp;</span><a href="https://wusunyinyue.cn/forum.php"><span style="font-size:14px;line-height:1;">无损音乐网-论坛</span></a> <span>丨&nbsp;</span><a href="https://sacdr.net/plugin.php?id=comeing_guide"><span style="font-size:14px;line-height:1;">SACDR 音乐论坛</span></a> <span>丨&nbsp;</span><a href="https://dsdlove.com/"><span style="font-size:14px;line-height:1;">dsd音乐论坛</span></a> <span>丨&nbsp;</span><span style="font-size:14px;line-height:1;"><a href="http://www.zhiaimusic.com/">至爱音乐论坛</a>&nbsp;<span>丨</span>&nbsp;</span><a href="http://www.mixrnb.com/"><span style="font-size:14px;line-height:1;">MixRNB音乐论坛</span></a> <span>丨&nbsp;</span><span style="font-size:14px;line-height:1;"><a href="http://www.52qingyin.cn/">清音陋屋音乐论坛</a></span> 
 </p>
 <p style="text-align:justify;">
 	<br />
 </p>
 <h3 style="text-align:justify;">
-  <a name="undefined"></a><span style="font-size:18px;line-height:1;"><span style="color:#009900;">漫画资源区丨</span>拥抱沉浸式的二次元世界&nbsp;</br><a href="#top"><span style="background-color:#009900;color:#FFFFFF;font-size:9px;">&nbsp;返回顶部 TOP&nbsp; </span></a></span> 
+  <a name="undefined"></a><span style="font-size:18px;line-height:1;"><span style="color:#009900;">漫画资源区丨</span>拥抱沉浸式的二次元世界&nbsp;<br/><a href="#top"><span style="background-color:#009900;color:#FFFFFF;font-size:9px;">&nbsp;返回顶部 TOP&nbsp; </span></a></span> 
 </h3> 
 <p style="text-align:justify;">
 	<span style="font-size:16px;">漫画资源网站</span> 
-</br>
+br/>
 	<a href="https://www.soman.com/"><span style="font-size:14px;line-height:1;">搜漫</span></a>&nbsp;<span>丨</span>&nbsp;<a href="https://www.fzdm.com/"><span style="font-size:14px;line-height:1;">风之动漫</span></a> <span>丨&nbsp;</span><a href="http://www.dm5.com/"><span style="font-size:14px;line-height:1;">动漫屋</span></a> <span>丨&nbsp;</span><a href="http://www.1kkk.com/"><span style="font-size:14px;line-height:1;">极速漫画</span></a> <span>丨&nbsp;</span><a href="https://www.manhuatai.com/"><span style="font-size:14px;line-height:1;">漫画台</span></a> <span>丨&nbsp;</span><a href="https://www.manhuagui.com/"><span style="font-size:14px;line-height:1;">漫画柜</span></a> <span>丨&nbsp;</span><a href="https://www.tohomh123.com/"><span style="font-size:14px;line-height:1;">土豪漫画</span></a> <span>丨&nbsp;</span><a href="https://www.ishuhui.com/"><span style="font-size:14px;line-height:1;">鼠绘漫画网</span></a> <span>丨&nbsp;</span><a href="https://www.dmzj.com/"><span style="font-size:14px;line-height:1;">动漫之家</span></a> <span>丨&nbsp;</span><a href="http://www.manben.com/mh-yaoshenji/"><span style="font-size:14px;line-height:1;">漫本</span></a> <span>丨&nbsp;</span><a href="https://www.manmanapp.com/comic/category_1.html"><span style="font-size:14px;line-height:1;">漫漫漫画</span></a> <span>丨&nbsp;</span><a href="http://manhua.weibo.com/"><span style="font-size:14px;line-height:1;">微博动漫</span></a> <span>丨&nbsp;</span><span style="font-size:14px;line-height:1;"><a href="http://www.buka.cn/">布卡漫画</a></span> 
 </p>
 <p style="text-align:justify;">
@@ -159,7 +158,7 @@
 </p>
 <p style="text-align:justify;">
 	<span style="font-size:16px;">漫画资源APP</span> 
-</br>
+<br/>
 	<a href="https://share.weiyun.com/5vGEdfH"><span style="font-size:14px;line-height:1;">异次元-安卓</span></a> <span>丨&nbsp;</span><a href="https://share.weiyun.com/5inxWtB"><span style="font-size:14px;line-height:1;">异次元-245个图源</span></a> <span>丨&nbsp;</span><a href="https://share.weiyun.com/5B0NS8z"><span style="font-size:14px;line-height:1;">荟聚动漫-iOS#15个漫画源#</span></a> <span>丨&nbsp;</span><a href="https://share.weiyun.com/5ifZag9"><span style="font-size:14px;line-height:1;">坏坏猫-安卓去广告版</span></a> <span>丨&nbsp;</span><a href="http://ddcat.noear.org/"><span style="font-size:14px;line-height:1;">多多猫-安卓/iOS</span></a> 
 </p>
 <p style="text-align:justify;">
@@ -167,14 +166,14 @@
 </p>
 <span style="text-align:justify;">
 	<span style="font-size:16px;line-height:1;">支持Kendle推送的漫画资源网站</span> 
-</br>
+<br/>
 	<a href="https://volmoe.com/"><span style="font-size:14px;line-height:1;">Vol.moe</span></a> <span>丨&nbsp;</span><a href="https://kindlemh.cc/?__K=12be981992d205efc94d6c5c9f9c2956b1586334871_12098"><span style="font-size:14px;line-height:1;">kindle漫画小站</span></a> <span>丨&nbsp;</span><a href="http://www.kindlecomic.net/"><span style="font-size:14px;line-height:1;">kindle漫画</span></a> <span>丨&nbsp;</span><a href="https://www.manhuabudang.com/"><span style="font-size:14px;line-height:1;">漫画补档</span></a> <span>丨&nbsp;</span><span style="font-size:14px;line-height:1;"><a href="http://www.binnao.com/">缤闹kindle论坛</a></span> 
 </p>
 <p style="text-align:justify;">
 	<br />
 </p>
 <h3 style="text-align:justify;">
-  <a name="undefined"></a><span style="font-size:18px;line-height:1;"><span style="color:#009900;">小说资源区丨</span>比爽文更爽的是免费看爽文</span></br>
+  <a name="undefined"></a><span style="font-size:18px;line-height:1;"><span style="color:#009900;">小说资源区丨</span>比爽文更爽的是免费看爽文</span><br/>
   <a href="#top"><span style="background-color:#009900;color:#FFFFFF;font-size:9px;font-weight:normal;">&nbsp;返回顶部 TOP&nbsp;</span></a> 
 </h3>
 <p style="text-align:justify;">
