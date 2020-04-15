@@ -1,4 +1,3 @@
-<span style="line-height:1.5">
 <p style="text-align:justify;">
 	<a name="top"></a> <a><span style="font-size:10px;">微信打开请点击右上角[···]，然后选择[在浏览器中打开]</span></a> <br />
 <span style="font-size:10px;"><a href="http://qr06.cn/C3tw81">2020年4月10日更新丨微信公众号：包哥万事屋丨微信：baoge404</a></span> 
@@ -26,18 +25,18 @@
 	<a name="yingshi"></a><strong><span style="color:#009900;font-size:18px;">影视资源区丨</span><span style="font-size:18px;">应付 99%日常看视频所需</span></strong> 
 </p>
 <p style="text-align:justify;">
-	<span style="font-size:16px;">主流影视网站-免费看超清#爱优腾芒等主流视频解析站#</span> 
+  <span style="font-size:16px;"><strong>影视网站免费看超清</strong><br/><br/><span style="color:#009900;">#爱优腾芒等主流视频解析站#</span></span> 
 <br /><span style="font-size:14px;">
 	<a href="https://www.administrator5.com/">无名小站</a><span>&nbsp;丨&nbsp;</span><a href="http://www.qmaile.com/">全民解析</a></span>
 </p>
 <p style="text-align:justify;">
 	<br />
 </p>
-<p style="text-align:justify;">
-<span style="font-size:16px;">手机视频解析APP</span> 
+<p style="text-align:justify;line-height:2">
+<span style="color:#009900;font-size:16px;">#手机视频解析APP#</span> 
 <br />
 <span style="font-size:15px;">
-<a href="https://share.weiyun.com/5gNA4ss">安卓-就爱看影视破解版</a>&nbsp;丨&nbsp;<a href="https://share.weiyun.com/5lGSFwC">安卓-简易影视</a>&nbsp;丨&nbsp;<a href="https://share.weiyun.com/5cU80DE">安卓-飘花影视</a>&nbsp;丨&nbsp;<a href="https://share.weiyun.com/53dyzwD">安卓-南瓜影视破解版</a>&nbsp;丨&nbsp;<a href="https://share.weiyun.com/5N89Qiu">安卓-花花影视</a>&nbsp;丨&nbsp;<a href="https://share.weiyun.com/5Ckv3Aa">安卓-全网视频免费看</a>&nbsp;丨&nbsp;<a href="http://www.star.vin/">安卓/iOS-星雨视频</a>&nbsp;丨&nbsp;<a href="https://ymdy.app/">安卓/iOS-玉米电影</a>&nbsp;&nbsp;丨&nbsp;<a href="https://xiao1.app/">安卓iOS-小小影视</a>&nbsp;丨&nbsp;<a href="https://apps.apple.com/cn/app/%E5%8D%97%E7%93%9C%E5%AE%B6%E5%85%B7/id1498953691">iOS-南瓜影视</a>&nbsp;丨&nbsp;<a href="https://apps.apple.com/cn/app/%E4%BB%8A%E6%97%A5%E5%BD%B1%E8%A7%86-%E7%9C%8B%E5%A5%BD%E5%89%A7-%E4%B8%8A%E4%BB%8A%E6%97%A5%E5%BD%B1%E8%A7%86/id1322243737">iOS-今日影视</a>&nbsp;丨&nbsp;<a href="https://apps.apple.com/cn/app/id1474749614">iOS-蝴蝶影视</a>
+<a href="https://share.weiyun.com/5gNA4ss">安卓-就爱看影视破解版</a>&nbsp;&nbsp;丨&nbsp;&nbsp;<a href="https://share.weiyun.com/5lGSFwC">安卓-简易影视</a>&nbsp;&nbsp;丨&nbsp;&nbsp;<a href="https://share.weiyun.com/5cU80DE">安卓-飘花影视</a>&nbsp;&nbsp;丨&nbsp;&nbsp;<a href="https://share.weiyun.com/53dyzwD">安卓-南瓜影视破解版</a>&nbsp;&nbsp;丨&nbsp;&nbsp;<a href="https://share.weiyun.com/5N89Qiu">安卓-花花影视</a>&nbsp;&nbsp;丨&nbsp;&nbsp;<a href="https://share.weiyun.com/5Ckv3Aa">安卓-全网视频免费看</a>&nbsp;&nbsp;丨&nbsp;&nbsp;<a href="http://www.star.vin/">安卓/iOS-星雨视频</a>&nbsp;&nbsp;丨&nbsp;&nbsp;<a href="https://ymdy.app/">安卓/iOS-玉米电影</a>&nbsp;&nbsp;&nbsp;&nbsp;丨&nbsp;&nbsp;<a href="https://xiao1.app/">安卓iOS-小小影视</a>&nbsp;&nbsp;丨&nbsp;&nbsp;<a href="https://apps.apple.com/cn/app/%E5%8D%97%E7%93%9C%E5%AE%B6%E5%85%B7/id1498953691">iOS-南瓜影视</a>&nbsp;&nbsp;丨&nbsp;&nbsp;<a href="https://apps.apple.com/cn/app/%E4%BB%8A%E6%97%A5%E5%BD%B1%E8%A7%86-%E7%9C%8B%E5%A5%BD%E5%89%A7-%E4%B8%8A%E4%BB%8A%E6%97%A5%E5%BD%B1%E8%A7%86/id1322243737">iOS-今日影视</a>&nbsp;&nbsp;丨&nbsp;&nbsp;<a href="https://apps.apple.com/cn/app/id1474749614">iOS-蝴蝶影视</a>
 </span> 
 </p>
   
@@ -145,4 +144,4 @@
 </h3>
 <p style="text-align:justify;">
 	<span style="font-size:14px;"><a href="https://www.7sebook.com/disk">七秒书盘-电子书</a></span> <span>丨&nbsp;</span><a href="https://www.jiumodiary.com/"><span style="font-size:14px;">鸠摩搜索-电子书</span></a> <span>丨&nbsp;</span><a href="https://www.shudan.vip/"><span style="font-size:14px;">书单网-电子书</span></a> <span>丨&nbsp;</span><a href="http://kindle.archiew.top/"><span style="font-size:14px;">书舟网-电子书</span></a> <span>丨&nbsp;</span><a href="http://www.zxcs.info/"><span style="font-size:14px;">知轩藏书-爽文</span></a> <span>丨&nbsp;</span><a href="https://www.owllook.net/"><span style="font-size:14px;">owllook-爽文</span></a> <span>丨&nbsp;</span><a href="https://www.biquge5200.com/"><span style="font-size:14px;">笔趣阁-爽文</span></a> <span>丨&nbsp;</span><a href="https://www.xs8.cn/"><span style="font-size:14px;">言情小说吧-爽文</span></a> <span>丨&nbsp;</span><a href="https://www.soepub.com/"><span style="font-size:14px;">掌上书苑</span></a> <span>丨&nbsp;</span><a href="http://dianbook.cc/"><span style="font-size:14px;">点书网</span></a> <span>丨&nbsp;</span><a href="http://www.piqiyuedu.com/"><span style="font-size:14px;">脾气阅读</span></a> <span>丨&nbsp;</span><a href="http://kgbook.com/"><span style="font-size:14px;">苦瓜书盘</span></a> <span>丨&nbsp;</span><a href="http://www.dududog.com/"><span style="font-size:14px;">读读狗</span></a> <span>丨&nbsp;</span><a href="http://www.share2uu.com/"><span style="font-size:14px;">分享</span></a> <span>丨&nbsp;</span><a href="http://panghubook.cn/"><span style="font-size:14px;">胖虎书屋</span></a> <span>丨&nbsp;</span><a href="http://www.haodoo.net/"><span style="font-size:14px;">好讀</span></a> <span>丨&nbsp;</span><a href="https://epubw.com/?__cf_chl_jschl_tk__=ac62ce8f4dd7f141e664cf875a0744a62473a6d8-1585903979-0-AfW51XUMHwJ7wK_8owRNXf4SrgEe3Fqo_ERb9A4Qk87CR6Qlusi2kxkQ-Q1niyQUC-HjazqaocYrR5dm1Fb6TwmMbp8VlnD8cREjXPKBxx8I797H7k4XTdsoilEl7ZNelIEQh3VXkce3sItJAY2TwXcU5YKi7f6X7U07K2k8e1cO2yXA83c00WQC91YjdHZ4vySqDWPjccUmAoEWrwbNYM4cuLcHf9dOs3iPRuvi4EqHG5aoQ2YjcubQ0jxFkeA4WbwjlEbnqoBtyNcXG0yCqo0"><span style="font-size:14px;">ePUBw</span></a> <span>丨&nbsp;</span><a href="https://sobooks.cc/"><span style="font-size:14px;">SoBooks</span></a> <span>丨&nbsp;</span><a href="https://www.aibooks.club/"><span style="font-size:14px;">AIBOOKS</span></a> <span>丨&nbsp;</span><span style="font-size:14px;"><a href="http://www.xqishuta.com/">奇书网</a></span> 
-  </p></span>
+  </p>
