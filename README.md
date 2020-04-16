@@ -1,4 +1,4 @@
-<p style="text-align:justify;color: rgb(0, 0, 0); font-family: &quot;Microsoft YaHei&quot;; font-size: medium; line-height: normal;" align="justify">
+<p style="text-align:justify;color: rgb(0, 0, 0); font-family: &quot;Microsoft YaHei&quot;; font-size: medium; line-height: normal;" align="justify"><a name="top"></a>
     <a style="font-size: 10px; color: rgb(131, 131, 131);"><span style="font-size: 10px; color: #838383;">微信打开请点击右上角<span style="font-size: 10px; color: #009900;">[···]</span>，然后选择<span style="font-size: 10px; color: #009900;">[在浏览器中打开]</span></span></a><span style="font-size: 10px; color: #838383;">。</span>
 </p>
 <p style="text-align:justify;color: rgb(0, 0, 0); font-family: &quot;Microsoft YaHei&quot;; font-size: medium; line-height: normal;" align="justify">
@@ -83,7 +83,7 @@
     <br/>
 </p>
 <p style="text-align:justify;color: rgb(0, 0, 0); font-family: &quot;Microsoft YaHei&quot;; font-size: medium;" align="justify"><a name="yinyue"></a>
-    <strong><span style="font-size: 24px; color: #009900;">音乐资源区丨</span><span style="font-size: 16px;">满足你对音乐的所有幻想</span></strong><br/><a href="http://c.runoob.com/front-end/61#top"><span style="background-color: #838383; color: #FFFFFF; font-size: 9px;">&nbsp;返回顶部 TOP&nbsp;</span></a>
+    <strong><span style="font-size: 24px; color: #009900;">音乐资源区丨</span><span style="font-size: 16px;">满足你对音乐的所有幻想</span></strong><br/><a href="#top"><span style="background-color: #838383; color: #FFFFFF; font-size: 9px;">&nbsp;返回顶部 TOP&nbsp;</span></a>
 </p>
 <p style="text-align:justify;color: rgb(0, 0, 0); font-family: &quot;Microsoft YaHei&quot;; font-size: medium;" align="justify">
     <br/>
@@ -107,7 +107,7 @@
     <br/>
 </p>
 <h3 style="text-align: justify;"><a name="manhua"></a>
-    <strong><span style="font-size: 24px; color: #009900;">漫画资源区丨</span><span style="font-size: 16px;">拥抱沉浸式的二次元世界</span></strong><br/><a href="http://c.runoob.com/front-end/61#top"><span style="background-color: #838383; color: #FFFFFF; font-size: 9px;">&nbsp;返回顶部 TOP&nbsp;</span></a>
+    <strong><span style="font-size: 24px; color: #009900;">漫画资源区丨</span><span style="font-size: 16px;">拥抱沉浸式的二次元世界</span></strong><br/><a href="#top"><span style="background-color: #838383; color: #FFFFFF; font-size: 9px;">&nbsp;返回顶部 TOP&nbsp;</span></a>
 </h3>
 <p style="text-align:justify; line-height: 2;" align="justify">
     <span style="font-size: 16px;"><br/></span>
@@ -137,7 +137,7 @@
     <br/>
 </p>
 <h3 style="text-align: justify;"><a name="xiaoshuo"></a>
-    <strong><span style="font-size: 24px; color: #009900;">小说资源区丨</span><span style="font-size: 16px;">比爽文更爽的是免费看爽文</span></strong><br/><a href="http://c.runoob.com/front-end/61#top"><span style="background-color: #838383; color: #FFFFFF; font-size: 9px; font-weight: normal;">&nbsp;返回顶部 TOP&nbsp;</span></a>
+    <strong><span style="font-size: 24px; color: #009900;">小说资源区丨</span><span style="font-size: 16px;">比爽文更爽的是免费看爽文</span></strong><br/><a href="#top"><span style="background-color: #838383; color: #FFFFFF; font-size: 9px; font-weight: normal;">&nbsp;返回顶部 TOP&nbsp;</span></a>
 </h3>
 <p style="text-align:justify;" align="justify">
     <br/>
