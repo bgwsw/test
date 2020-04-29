@@ -1,32 +1,28 @@
-<p>
-<span style="font-size:10px;color:#383838;">
-	<span>微信体验时请点击右上角</span><span style="color:#009900;">[···]</span>，然后选择<span style="color:#009900;">[在浏览器中打开]		</span>。<br />
-	<span style="color:#009900;">2020年4月29日更新</span>丨<span style="color:#838383;">微信公众号：包哥万事屋丨微信baoge404</span><br/>
+<p style="font-size:10px;color:#383838;">
+  <span>微信体验时请点击右上角</span><span style="color:#009900;">[···]</span>，然后选择<span style="color:#009900;">[在浏览器中打开]		</span>。<br />
+  <span style="color:#009900;">2020年4月29日更新</span>丨<span style="color:#838383;">微信公众号：包哥万事屋丨微信baoge404</span><br/>
   <span><a href="">点击下载本地书签</a></span><br />
-</span>
 </p>
 <!-- 头部提示内容 -->
 <hr />
-<span style="font-size:14px;color:#383838;">
-<p>
+<p style="font-size:14px;color:#383838;">
 <span style="color:#009900;">▼</span>&nbsp;<strong>万事屋书签</strong>
 </p>
-<p>
+<p style="font-size:14px;color:#383838;">
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:10px;color:#009900;">▶</span>&nbsp; <a href="#yinshi">影视资源区丨<span style="font-size:10px;color:#838383;">应付99%日常看视频所需</span></a>
 </p>
-<p>
+<p style="font-size:14px;color:#383838;">
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:10px;color:#009900;">▶</span>&nbsp; <a href="#yinyue">音乐资源区丨<span style="font-size:10px;color:#838383;">满足你对音乐的所有幻想</span></a>
 </p>
-<p>
+<p style="font-size:14px;color:#383838;">
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:10px;color:#009900;">▶</span>&nbsp; <a href="#manhua">漫画资源区丨<span style="font-size:10px;color:#838383;">拥抱沉浸式的二次元世界</span></a>
 </p>
-<p>
+<p style="font-size:14px;color:#383838;">
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:10px;color:#009900;">▶</span>&nbsp; <a href="#xiaoshuo">小说资源区丨<span style="font-size:10px;color:#838383;">比看爽文更爽的是免费看爽文</span></a>
 </p>
-<p>
+<p style="font-size:14px;color:#383838;">
 &nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:10px;color:#009900;">▶</span>&nbsp; <a href="#remen">其他热门区丨<span style="font-size:10px;color:#838383;">屏蔽广告/在线短信 ...</span></a>
 </p><br />
-</span>
 <hr />
 <!-- 头部导航 -->
 <p>
